@@ -1,7 +1,5 @@
 # Engagement Detection from Video Capture
 
-## Homework Submission = __Whitepaper.pdf__
-
 ## Folder and File Structure
 The most important files / directories are in bold. data and models are not included due to size. Data used for training can be requested from [DAiSEE](https://iith.ac.in/~daisee-dataset/)
 
@@ -16,7 +14,7 @@ PDF describing detailed methodology for project
 step by step instructions on setting up aws and jetson for this project, including docker implementation, library installs and OpenCV compilation.
 
 - Presentation.pdf     
-In class presentaion
+Presentaion
 
 - EDA.xls  
 Spreadsheet containing modeling results and some EDA
