@@ -1,7 +1,7 @@
 # Engagement Detection from Video Capture
 
 ## Folder and File Structure
-The most important files / directories are in bold. data and models are not included due to size. Data used for training can be requested from [DAiSEE](https://iith.ac.in/~daisee-dataset/)
+The most important files / directories are in bold. Data and models are not included due to size. Data used for training can be requested from [DAiSEE](https://iith.ac.in/~daisee-dataset/)
 
 GazeML code referenced in the appendix is available from [github](https://github.com/swook/GazeML/blob/master/src/elg_demo.py).
 
